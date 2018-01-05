@@ -8,8 +8,7 @@ Goto modules/favorite/js and
 ```
 npm install
 sudo npm install webpack -g //if not installed
-sudo npm install nodemon -g //if not installed
-nodemon webpack
+webpack --watch // or just webpack as required
 ```
 
 Please check https://github.com/zivtech/react-drupal-example/blob/master/README.md for more details on the drupal-react module.
